@@ -1,0 +1,1 @@
+This is the `wp-content/plugins` folder for a wordpress project.
