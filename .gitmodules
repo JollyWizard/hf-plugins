@@ -1,0 +1,3 @@
+[submodule "hf-cpt-session"]
+	path = hf-cpt-session
+	url = https://github.com/JollyWizard/hf-cpt-session.git
